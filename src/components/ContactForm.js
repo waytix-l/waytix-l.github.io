@@ -37,7 +37,7 @@ export default function ContactForm() {
         <div className="contact-content">
           <div className="contact-info">
             <h2>Restons en contact</h2>
-            <p>N'hésitez pas à me contacter pour discuter de projets, d'opportunités ou simplement pour échanger !</p>
+            <p>N&aposhésitez pas à me contacter pour discuter de projets, d&aposopportunités ou simplement pour échanger !</p>
             
             <div className="contact-details">
               <div className="contact-item">

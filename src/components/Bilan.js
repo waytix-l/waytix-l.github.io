@@ -62,7 +62,7 @@ export default function Bilan() {
                 viewport={{ once: true }}
             >
                 <p>
-                    Ce stage a confirmé mon choix de carrière dans le développement full-stack, avec un intérêt particulier pour le web et le mobile. À court terme, je souhaite approfondir l’écosystème React et le déploiement cloud ; à moyen terme, évoluer vers un rôle de lead developer.
+                    Ce stage a confirmé mon choix de carrière dans le développement full-stack, avec un intérêt particulier pour le web et le mobile. À court terme, je souhaite approfondir l&aposécosystème React et le déploiement cloud ; à moyen terme, évoluer vers un rôle de lead developer.
                 </p>
             
             </motion.div>

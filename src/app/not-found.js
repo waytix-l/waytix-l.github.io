@@ -10,10 +10,10 @@ export default function NotFound() {
           <h1 className="error-code">404</h1>
           <h2 className="error-title">Page non trouvée</h2>
           <p className="error-description">
-            Désolé, la page que vous recherchez n'existe pas.
+            Désolé, la page que vous recherchez n&aposexiste pas.
           </p>
           <Link href="/" className="btn btn-primary">
-            Retour à l'accueil
+            Retour à l&aposaccueil
           </Link>
         </div>
       </div>

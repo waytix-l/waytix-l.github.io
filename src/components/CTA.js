@@ -20,7 +20,7 @@ export default function CTA() {
           transition={{ duration: 0.6, delay: 0.2 }}
           viewport={{ once: true }}
         >
-          N'hésitez pas à me contacter pour discuter de vos projets ou opportunités
+          N&aposhésitez pas à me contacter pour discuter de vos projets ou opportunités
         </motion.p>
         <motion.div
           initial={{ opacity: 0, y: 30 }}

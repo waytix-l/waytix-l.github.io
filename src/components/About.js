@@ -27,10 +27,10 @@ export default function About() {
           transition={{ duration: 0.6, delay: 0.2 }}
           viewport={{ once: true }}>
           <p>
-            Étudiant en 2ème année d'informatique, j'ai effectué un stage de 7 semaines axé sur le développement 
-            de projets innovants. Durant cette période, j'ai travaillé sur trois projets majeurs : 
+            Étudiant en 2ème année d&aposinformatique, j&aposai effectué un stage de 7 semaines axé sur le développement 
+            de projets innovants. Durant cette période, j&aposai travaillé sur trois projets majeurs : 
             un jeu multijoueur avec Unity et Photon Fusion, une application mobile de gestion de matériel, 
-            et la refonte complète d'un site web avec Next.js.
+            et la refonte complète d&aposun site web avec Next.js.
           </p>
           <div className="skills">
             <h3>Compétences techniques</h3>

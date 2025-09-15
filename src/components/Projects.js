@@ -35,7 +35,7 @@ export default function Projects() {
             transition={{ duration: 0.6, delay: 0.2 }}
             viewport={{ once: true }}
           >
-            <p>Les projets présentés sont issus de mon stage de fin d'études en tant que développeur web/mobile chez Mageweb. Ils illustrent mes compétences techniques et ma capacité à mener des projets concrets. J'ai travaillé seul et je devais réaliser un rapport de stage par semaine à mon maitre de stage afin de faire un point sur mon avancée.</p>
+            <p>Les projets présentés sont issus de mon stage de fin d&aposétudes en tant que développeur web/mobile chez Mageweb. Ils illustrent mes compétences techniques et ma capacité à mener des projets concrets. J&aposai travaillé seul et je devais réaliser un rapport de stage par semaine à mon maitre de stage afin de faire un point sur mon avancée.</p>
           </motion.div>
 
       </div>

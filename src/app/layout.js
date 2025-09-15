@@ -4,17 +4,18 @@ import './globals.css'
 
 const inter = Inter({ subsets: ['latin'] })
 
-const basePath = process.env.NODE_ENV === 'production' ? '/portfolio-lucas-savy' : ''
-
 export const metadata = {
   title: 'Lucas Savy - Portfolio',
-  description: 'Portfolio de Lucas Savy, étudiant en B2 Informatique',
-  metadataBase: new URL(`https://waytix-l.github.io${basePath}`), // Remplacez par votre username
+  description: 'Portfolio de Lucas Savy, étudiant en B2 Informatique passionné par le développement web, mobile et les jeux vidéo',
+  keywords: 'Lucas Savy, portfolio, développeur, informatique, Unity, Next.js, React Native',
 }
 
 export default function RootLayout({ children }) {
   return (
     <html lang="fr">
+      <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+      </head>
       <body className={inter.className}>
         <Header />
         <main>

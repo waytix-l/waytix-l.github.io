@@ -8,8 +8,8 @@ const nextConfig = {
     unoptimized: true
   },
   // Remplacez 'votre-username' et 'nom-du-repo' par vos vraies valeurs
-  basePath: process.env.NODE_ENV === 'production' ? '/portfolio-lucas-savy' : '',
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/portfolio-lucas-savy/' : '',
+  basePath: process.env.NODE_ENV === 'production' ? '/waytix-l.github.io' : '',
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/waytix-l.github.io/' : '',
 }
 
 module.exports = nextConfig
